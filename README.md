@@ -1,5 +1,5 @@
 # Socks5-Scrapper
-Scraps  Premium socks5 
+Just a simple script which Scraps socks5
 
 install urllib & urllib.request
 
